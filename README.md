@@ -21,8 +21,8 @@ An interactive document-based chatbot built with [Streamlit](https://streamlit.i
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/document-chatbot.git
-cd document-chatbot
+git clone https://github.com/abhikalparya/documentchatbot.git
+cd documentchatbot
 ```
 
 ### 2. Install dependencies
